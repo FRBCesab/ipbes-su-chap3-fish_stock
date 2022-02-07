@@ -1,6 +1,6 @@
 # IPBES Sustainable Use Assessment - Figure Chap3 Global Fish Stocks
 
-[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgreen.svg)](https://creativecommons.org/licenses/by-nc-nd/2.0/)
+[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY-NC-ND%204.0-lightgreen.svg)](https://creativecommons.org/licenses/by-nc-nd/2.0/)
 
 This repository contains the code to reproduce the Figure 'Global Fish Stock' of 
 the chapter 3 of the **IPBES Sustainable Use Assessment**. This figure shows the 
