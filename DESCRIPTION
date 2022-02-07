@@ -1,0 +1,25 @@
+Package: ipbes.su.chap3.fish.stock
+Type: Package
+Title: IPBES Sustainable Use Assessment - Figure Chapter 3 - Global Fish Stocks
+Version: 1.0.0
+Authors@R: c(
+    person(given   = "Nicolas",
+           family  = "Casajus",
+           role    = c("aut", "cre"),
+           email   = "nicolas.casajus@fondationbiodiversite.fr",
+           comment = c(ORCID = "0000-0002-5537-5294")))
+Description: Code to reproduce the Figure 'Global Fish Stock' of the chapter 3 
+    of the IPBES Sustainable Use Assessment. This figure shows the evolution of
+    the estimated abundance of global fish stocks.
+URL: https://github.com/frbcesab/ipbes-su-chap3-fish_stock
+BugReports: https://github.com/frbcesab/ipbes-su-chap3-fish_stock/issues
+License: CC BY-NC-ND 4.0
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
+Imports:
+    devtools,
+    here,
+    readxl,
+    remotes
